@@ -1,4 +1,5 @@
-### I’m currently working a postdoctoral research associate at the Department of Physics and Astronomy, The University of Sheffield.
+### Welcome to Ravi Kumar Venkatraman's GitHub Page
+I’m Dr Ravi Kumar Venkatraman, currently working as a Postdoctoral Research Associate at the Department of Physics and Astronomy, The University of Sheffield.
 
 <!--
 **ravikvraman/ravikvraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
